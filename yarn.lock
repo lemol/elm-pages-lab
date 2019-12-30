@@ -3117,7 +3117,7 @@ elm-webpack-loader@^6.0.0:
     node-elm-compiler "^5.0.0"
     yargs "^6.5.0"
 
-elm@^0.19.0-no-deps:
+elm@0.19.0-no-deps, elm@^0.19.0-no-deps:
   version "0.19.0-no-deps"
   resolved "https://registry.yarnpkg.com/elm/-/elm-0.19.0-no-deps.tgz#4754b658c424771823ee91bd5bf6387647954add"
   integrity sha512-tOlSeo5Bt0Rkrt/aBjL+/a+TmAFdfeqjrOlThrhgKOoGeHt1hU7/hJ+HFMlHiODf09AQh7Anl64o7V6thzmRHw==
@@ -4214,7 +4214,7 @@ he@1.2.x, he@^1.1.1:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-highlight.js@^9.15.10:
+highlight.js@9.15.10:
   version "9.15.10"
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.15.10.tgz#7b18ed75c90348c045eef9ed08ca1319a2219ad2"
   integrity sha512-RoV7OkQm0T3os3Dd2VHLNMoaoDVx77Wygln3n9l5YV172XonWG6rgQD3XnF/BuFFZw9A0TJgmMSO8FEWQgvcXw==
@@ -4367,7 +4367,7 @@ http-proxy@^1.16.2, http-proxy@^1.17.0, http-proxy@^1.8.1:
     follow-redirects "^1.0.0"
     requires-port "^1.0.0"
 
-http-server@^0.11.1:
+http-server@0.11.1:
   version "0.11.1"
   resolved "https://registry.yarnpkg.com/http-server/-/http-server-0.11.1.tgz#2302a56a6ffef7f9abea0147d838a5e9b6b6a79b"
   integrity sha512-6JeGDGoujJLmhjiRGlt8yK8Z9Kl0vnl/dQoQZlc4oeqaUoAKQg94NILLfrY3oWzSyFaQCVNTcKE5PZ3cH8VP9w==
@@ -5831,7 +5831,7 @@ node-releases@^1.1.29:
   dependencies:
     semver "^5.3.0"
 
-node-sass@^4.12.0:
+node-sass@4.12.0, node-sass@^4.12.0:
   version "4.12.0"
   resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.12.0.tgz#0914f531932380114a30cc5fa4fa63233a25f017"
   integrity sha512-A1Iv4oN+Iel6EPv77/HddXErL2a+gZ4uBeZUy+a8O35CFYTXhgA8MgLCWBtwpGZdCvTvQ9d+bQxX/QC36GDPpQ==
